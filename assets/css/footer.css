@@ -1,0 +1,12 @@
+.bgimg2{
+    background-image:url(/assets/images/FOOTER\ final.jpg) ;
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover;
+}
+p{
+    margin-top: -10px;
+}
+p:hover{
+    color: red !important;
+}
