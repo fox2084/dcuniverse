@@ -83,14 +83,14 @@ label[data-state="close"] input {
   width: 150px;
 }
 .bag-img {
-  background: url(/assets/images/bg-cart.png);
+  background: url(../images/bg-cart.png);
   background-position: center; /* Center the image */
   background-repeat: no-repeat; /* Do not repeat the image */
   background-size: cover;
 }
 .info {
   box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
-  background-image: url(/assets/images/bgright.png);
+  background-image: url(../images/bgright.png);
 }
 
 .img-avatar {
@@ -340,10 +340,10 @@ body {
 .left-menu {
   /* background-color: black;
   background-image: radial-gradient(circle closest-side, white,black); */
-  background-image: url(/assets/images/bgleft2.png);
+  background-image: url(../images/bgleft2.png);
 }
 .right-menu {
-  background-image: url(/assets/images/bgright.png);
+  background-image: url(../images/bgright.png);
   background-size: cover;
 }
 .bg-transparent {
@@ -443,7 +443,7 @@ body {
 }
 
 .modal-content {
-  background-image: url(/assets/images/bgright.png);
+  background-image: url(../images/bgright.png);
 }
 
 #btn-back-to-top {
