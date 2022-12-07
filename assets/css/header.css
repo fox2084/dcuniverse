@@ -7,7 +7,7 @@ body {
   height: 70px;
 }
 .bgimg {
-  background-image: url(/assets/images/rebirth.jpg);
+  background-image: url(../images/rebirth.jpg);
   height: 70px;
   opacity: 80%;
   background-position: center; /* Center the image */
